@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.less';
-import Home from './components/home';
+import Main from './components/main';
 
 const App = () => ( <>
-       <Home />
+       <Main />
     </>
 );
 

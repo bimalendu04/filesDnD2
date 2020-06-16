@@ -1,0 +1,17 @@
+.fileView {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    width: 110px;
+    height: 110px;
+    background-color: white;
+    box-shadow: 5px 6px 7px 0px rgba(0, 0, 0, 0.75);
+    .download {
+        cursor: pointer;
+    }
+    .item {
+        cursor: pointer;
+    }
+}

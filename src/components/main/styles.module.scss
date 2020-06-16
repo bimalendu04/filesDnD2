@@ -1,0 +1,11 @@
+.container {
+    height: calc(100vh - 32px);
+    padding: 8px;
+    .section {
+        height: 100%;
+        width: 100%;
+        .viewContainer {
+            height: 100%;
+        }
+    }
+}
